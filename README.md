@@ -58,7 +58,7 @@ Um projeto de análise sobre o desempenho de vendas de uma empresa fictícia, cr
 1. Faça o download/clonagem do repositório.  
 2. Abra `DASHBOARD.pbix` no Power BI Desktop.  
 3. Se necessário, em **Transformar Dados** atualize a fonte para `vendas_sample.csv`.  
-4. Para testar filtros, use os slicers de Data, Região e Vendedor.
+4. Para testar filtros, use os slicers de Data, Região, Pagamento e Vendedor.
 
 ## ✉️ Contato
 `<Wemili Maria>` — `<wemilimaria1@gmail.com>`  
