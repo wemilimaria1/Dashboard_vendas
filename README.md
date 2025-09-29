@@ -18,7 +18,7 @@ Um projeto de análise sobre o desempenho de vendas de uma empresa fictícia, cr
 -  Arquivo do Power BI: `DASHBOARD.pbix`  
 -  Arquivo do Excel, usada como base de dados: `vendas_sample.csv.` 
 - Screenshots do dashboard.
-- `README.md` — Este arquivo.  
+- Este arquivo: `README.md` 
 
 ## 🖼️ Visualização do Dashboard
 ![Visão geral do dashboard](overview.png) 
