@@ -44,3 +44,9 @@ Um projeto de análise sobre o desempenho de vendas de uma empresa fictícia, cr
 ![Gráfico de Quantidade do Produto](Somadequantidadeporprodut.png)
 ## Gráfico de Vendas por Pagamento:
 ![Gráfico de Vendas por Pagamento](TotalVendasporPagamento.png)
+
+## 💡 Principais insights
+- **Produto mais vendido:** `Notebook` (1450 unidades).  
+- **Forma de pagamento principal:** `Dinheiro` (2.442.123,84 R$).  
+- **Região com maior faturamento:** `<Sudoeste>` (1.755.800,92 R$).
+  
