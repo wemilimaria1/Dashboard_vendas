@@ -50,3 +50,13 @@ Um projeto de análise sobre o desempenho de vendas de uma empresa fictícia, cr
 - **Forma de pagamento principal:** `Dinheiro` (2.442.123,84 R$).  
 - **Região com maior faturamento:** `<Sudoeste>` (1.755.800,92 R$).
 - **Vendedor com maior lucro:** `<Claudiane>` (1.229.839,66 R$) 
+
+ ## 🛠 Skills demonstradas
+- Power BI Desktop, Power Query, DAX (medidas), visualização de dados, storytelling com dados.
+
+## ⚙️ Como abrir / reproduzir
+1. Faça o download/clonagem do repositório.  
+2. Abra `DASHBOARD.pbix` no Power BI Desktop.  
+3. Se necessário, em **Transformar Dados** atualize a fonte para `vendas_sample.csv.`.  
+4. Para testar filtros, use os slicers de Data, Região e Vendedor.
+
