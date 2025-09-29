@@ -49,4 +49,4 @@ Um projeto de análise sobre o desempenho de vendas de uma empresa fictícia, cr
 - **Produto mais vendido:** `Notebook` (1450 unidades).  
 - **Forma de pagamento principal:** `Dinheiro` (2.442.123,84 R$).  
 - **Região com maior faturamento:** `<Sudoeste>` (1.755.800,92 R$).
-  
+- **Vendedor com maior lucro:** `<Claudiane>` (1.229.839,66 R$) 
