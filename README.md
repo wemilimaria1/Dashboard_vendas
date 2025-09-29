@@ -16,7 +16,7 @@ Um projeto de análise sobre o desempenho de vendas de uma empresa fictícia, cr
 ---
 ## 🔎 Conteúdo do repositório
 -  Arquivo do Power BI: `DASHBOARD.pbix`  
--  Arquivo do Excel, usada como base de dados: `vendas_sample.csv.` 
+-  Arquivo do Excel, usada como base de dados: `vendas_sample.csv` 
 - Screenshots do dashboard.
 - Este arquivo: `README.md`
 
@@ -57,6 +57,6 @@ Um projeto de análise sobre o desempenho de vendas de uma empresa fictícia, cr
 ## ⚙️ Como abrir / reproduzir
 1. Faça o download/clonagem do repositório.  
 2. Abra `DASHBOARD.pbix` no Power BI Desktop.  
-3. Se necessário, em **Transformar Dados** atualize a fonte para `vendas_sample.csv.`.  
+3. Se necessário, em **Transformar Dados** atualize a fonte para `vendas_sample.csv`.  
 4. Para testar filtros, use os slicers de Data, Região e Vendedor.
 
