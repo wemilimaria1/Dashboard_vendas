@@ -14,6 +14,12 @@ Um projeto de análise sobre o desempenho de vendas de uma empresa fictícia, cr
 * Excel
 
 ---
+## 🔎 Conteúdo do repositório
+-  Arquivo do Power BI: `DASHBOARD.pbix`  
+-  Arquivo do Excel, usada como base de dados: `vendas_sample.csv.` 
+- Screenshots do dashboard: (`overview.png`, `kips.png`, `LucroporVendedor.png`, `Somadequantidadeporprodut.png` , `TotaldeVendasporVendedor.png` , `TotalVendasporAnoeTrimestre.png` , `TotalVendasporPagamento.png` , `TotalVendasporRegião.png`).  
+- `README.md` — Este arquivo.  
+
 ## 🖼️ Visualização do Dashboard
 ![Visão geral do dashboard](overview.png) 
 ## Cartões:
