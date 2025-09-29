@@ -19,7 +19,7 @@ Um projeto de análise sobre o desempenho de vendas de uma empresa fictícia, cr
 ## Cartões:
 ![Cartões](kips.png)
 ## Gráficos de Vendas:
-![Gráfico de Vendas por Vendedor](TotalVendasporVendedor.png)
+![Gráfico de Vendas por Vendedor](TotaldeVendasporVendedor.png)
 
 ![Gráfico de Lucro por Vendedor](LucroporVendedor.png)
 
@@ -29,4 +29,5 @@ Um projeto de análise sobre o desempenho de vendas de uma empresa fictícia, cr
 ![Gráfico de Vendas por Região](TotalVendasporRegião.png)
 ## Gráfico de Quantidade do Produto:
 ![Gráfico de Quantidade do Produto](Somadequantidadeporprodut.png)
+## Gráfico de Vendas por Pagamento:
 ![Gráfico de Vendas por Pagamento](TotalVendasporPagamento.png)
