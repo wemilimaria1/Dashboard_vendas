@@ -18,7 +18,14 @@ Um projeto de análise sobre o desempenho de vendas de uma empresa fictícia, cr
 -  Arquivo do Power BI: `DASHBOARD.pbix`  
 -  Arquivo do Excel, usada como base de dados: `vendas_sample.csv.` 
 - Screenshots do dashboard.
-- Este arquivo: `README.md` 
+- Este arquivo: `README.md`
+
+## 🧭 Principais visualizações
+- KPIs: Total Vendas, Lucro, Margem %, Quantidade Vendida, Produto mais vendido.  
+- Evolução: Vendas por mês.
+- Distribuição: Vendas por forma de pagamento (pizza).  
+- Performance por vendedor e por região (barras).
+
 
 ## 🖼️ Visualização do Dashboard
 ![Visão geral do dashboard](overview.png) 
