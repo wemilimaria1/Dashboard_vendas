@@ -61,6 +61,6 @@ Um projeto de análise sobre o desempenho de vendas de uma empresa fictícia, cr
 4. Para testar filtros, use os slicers de Data, Região, Pagamento e Vendedor.
 
 ## ✉️ Contato
-`<Wemili Maria>` — `<wemilimaria1@gmail.com>`  
+Email: — `<wemilimaria1@gmail.com>`  
 LinkedIn: `<https://www.linkedin.com/in/wemili-maria-85a02a387/>`
 
